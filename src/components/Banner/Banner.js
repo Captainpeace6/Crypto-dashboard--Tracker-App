@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            Vishwaksena's Crypto Dashboard
           </Typography>
           <Typography
             variant="subtitle2"
