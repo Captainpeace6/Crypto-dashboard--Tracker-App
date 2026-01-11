@@ -1,8 +1,14 @@
-# Crypto Tracker Dashboard
+# Crypto Dashboard Tracker App
 
-A real-time cryptocurrency tracking app built with React.
+A real-time cryptocurrency dashboard built with React.
 
-Forked and customized by Vishwaksena Desu.
+Features:
+- Live crypto prices
+- Market charts
+- Historical data
+- Clean responsive UI
+
+Built and customized by Vishwaksena Desu.
 
 ## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
 
