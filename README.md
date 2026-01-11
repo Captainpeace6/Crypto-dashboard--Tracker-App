@@ -1,4 +1,8 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# Crypto Tracker Dashboard
+
+A real-time cryptocurrency tracking app built with React.
+
+Forked and customized by Vishwaksena Desu.
 
 ## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
 
