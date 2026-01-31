@@ -1,30 +1,27 @@
-# Crypto Dashboard Tracker App
+# Crypto Dashboard Tracker App 📊💰
 
-A real-time cryptocurrency dashboard built with React.
+A real-time cryptocurrency dashboard built with React that displays
+live prices, market trends, and historical data using public crypto APIs.
 
-Features:
-- Live crypto prices
-- Market charts
-- Historical data
-- Clean responsive UI
+## Features
+- Live cryptocurrency price tracking
+- Market charts and historical data
+- Clean, responsive UI
+- Real-time API updates
 
-Built and customized by Vishwaksena Desu.
-
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
-
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+## Tech Stack
+- React.js
+- JavaScript
+- Material UI
+- Chart.js
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+🔗 Live Demo: https://crypto-hunter.netlify.app/
 
-## Built with 
+## How to Run Locally
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
-
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
-
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
-
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+## Author
+Customized and enhanced by **Vishwaksena Desu**
